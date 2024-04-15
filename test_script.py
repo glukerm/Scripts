@@ -1,1 +1,1 @@
-print("Chris Bradford loves to make music but hasn't released any")
+print("Chris Bradford loves to make music but hasn't released any but said he has")
